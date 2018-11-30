@@ -14,5 +14,10 @@ require_once 'core/init.php';
 //    echo 'ok';
 //}
 
+//$user->insert('users', array(
+//    'email' => 'ivana@ivana.com',
+//    'name' => 'ivana',
+//    'password' => 'ivanaivana'
+//));
 
-
+//upis radi
